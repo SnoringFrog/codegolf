@@ -1,0 +1,5 @@
+Tx`A-Z`a-z
+# Works like cat, but lowercases any uppercase letters (but only those in the standard alphabet)
+# Written for http://codegolf.stackexchange.com/questions/59029/the-kitten-command
+# Golfed version drops the 'x' config and the comments.
+# Not tested yet, because I wrote this on OSX and can't run the interperter.
