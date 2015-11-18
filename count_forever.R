@@ -1,1 +1,1 @@
-a=1;repeat{cat(a,'');a=a+1}
+library(gmp);a=as.bigz(1);repeat{cat(paste(a,""));a=a+1}
