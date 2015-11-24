@@ -1,1 +1,1 @@
-library(gmp);a=as.bigz(1);repeat{cat(paste(a,""));a=a+1}
+a=gmp::as.bigz(2^127);repeat{cat(paste(a,""));a=a+1}
