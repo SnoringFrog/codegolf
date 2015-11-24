@@ -10,6 +10,7 @@ Program (language)  | Summary (golf link)
 [coordinate_triangle_area.bc][ctabc] (bc) | Same as above, slightly modified to work in bc.([golf][countbytesgolf])
 [coordinate_triangle_area.dc][ctadc] ([dc][dc]) | Same as above, but rewritten to run in dc.([golf][countbytesgolf])
 [kitten.ret][kitten] ([retina][retina]) | Like `cat`, but lowercase ascii ([golf][kittengolf])
+[output_qwerty_keyboard.rb][outputqwerty] (Ruby) | Output the remainder of a QWERTY keyboard given 1 char input ([golf][outputqwertygolf])
 
 
 
@@ -32,3 +33,6 @@ Program (language)  | Summary (golf link)
 [kitten]:kitten.ret
 [kittengolf]:http://codegolf.stackexchange.com/questions/59029/the-kitten-command
 [retina]:https://github.com/mbuettner/retina
+
+[outputqwerty]:output_qwerty_keyboard.rb
+[outputqwertygolf]:http://codegolf.stackexchange.com/questions/64639/output-the-qwerty-keyboard/
