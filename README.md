@@ -4,13 +4,18 @@ Program (language)  | Summary (golf link)
 ------------- | -------------
 [countBytes.R][countbytes] (R) | Count characters and bytes in input ([golf][countbytesgolf])
 [countBytes2.R][countbytes2] (R) | Shorter, but might not fit the golf on a technicality ([golf][countbytesgolf])
+
 [count_forever.R][countforever] (R) | Count up forever, starting at 1 ([golf][countforevergolf])
 [count_forever.unb][countforeverunb] ([UNBABTIZED][unbabtized]) | Count up forever, starting at 1 (untested, won't work with only known intepreter) ([golf][countforevergolf])
+
 [coordinate_triangle_area.R][ctar] (R) | Given 3 x,y coordinate pairs, calculate area of a triangle ([golf][coordinatetrianglegolf])
 [coordinate_triangle_area.bc][ctabc] (bc) | Same as above, slightly modified to work in bc.([golf][countbytesgolf])
 [coordinate_triangle_area.dc][ctadc] ([dc][dc]) | Same as above, but rewritten to run in dc.([golf][countbytesgolf])
+
 [kitten.ret][kitten] ([retina][retina]) | Like `cat`, but lowercase ascii ([golf][kittengolf])
-[output_qwerty_keyboard.rb][outputqwerty] (Ruby) | Output the remainder of a QWERTY keyboard given 1 char input ([golf][outputqwertygolf])
+
+[output_qwerty_keyboard.rb][outputqwertyrb] (Ruby) | Output the remainder of a QWERTY keyboard given 1 char input ([golf][outputqwertygolf])
+[output_qwerty_keyboard.sh][outputqwertysh] (Bash) | Same as above, but in bash ([golf][outputqwertygolf])
 
 
 
@@ -34,5 +39,6 @@ Program (language)  | Summary (golf link)
 [kittengolf]:http://codegolf.stackexchange.com/questions/59029/the-kitten-command
 [retina]:https://github.com/mbuettner/retina
 
-[outputqwerty]:output_qwerty_keyboard.rb
+[outputqwertyrb]:output_qwerty_keyboard.rb
+[outputqwertysh]:output_qwerty_keyboard.sh
 [outputqwertygolf]:http://codegolf.stackexchange.com/questions/64639/output-the-qwerty-keyboard/
