@@ -17,6 +17,7 @@ Program (language)  | Summary (golf link)
 [output_qwerty_keyboard.rb][outputqwertyrb] (Ruby) | Output the remainder of a QWERTY keyboard given 1 char input ([golf][outputqwertygolf])
 [output_qwerty_keyboard.sh][outputqwertysh] (Bash) | Same as above, but in bash ([golf][outputqwertygolf])
 
+[polyglot_int_print.ws][polyintprint] ([Whitespace][whitespace], Ruby, [brainfuck][brainfuck]) | Prints 1 when run as Whitespace, 2 as Ruby, 3 as brainfuck (uses underflow) ([golf][polyintprintgolf])
 
 
 
@@ -42,3 +43,8 @@ Program (language)  | Summary (golf link)
 [outputqwertyrb]:output_qwerty_keyboard.rb
 [outputqwertysh]:output_qwerty_keyboard.sh
 [outputqwertygolf]:http://codegolf.stackexchange.com/questions/64639/output-the-qwerty-keyboard/
+
+[polyintprint]:polyglot_int_print.ws
+[polyintprintgolf]:http://codegolf.stackexchange.com/questions/65641/the-versatile-integer-printer/65694#65694
+[whitespace]:http://web.archive.org/web/20150523181043/http://compsoc.dur.ac.uk/whitespace/index.php
+[brainfuck]:https://esolangs.org/wiki/Brainfuck
