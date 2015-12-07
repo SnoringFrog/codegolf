@@ -12,7 +12,7 @@ Program (language)  | Summary (golf link)
 [kitten.ret][kitten] ([retina][retina]) | Like `cat`, but lowercase ascii ([golf][kittengolf])
 [output_qwerty_keyboard.rb][outputqwertyrb] (Ruby) | Output the remainder of a QWERTY keyboard given 1 char input ([golf][outputqwertygolf])
 [output_qwerty_keyboard.sh][outputqwertysh] (Bash) | Same as above, but in bash ([golf][outputqwertygolf])
-[polyglot_int_print.ws][polyintprint] ([Whitespace][whitespace], Ruby, [brainfuck][brainfuck], [Labyrinth][labyrinth], [Foo][foo]) | Prints a single integer. 1 when run as Whitespace, subsequent integers when run (respectively) as Ruby, brainfuck (uses underflow), Labyrinth, and Foo ([golf][polyintprintgolf])
+[polyglot_int_print.ws][polyintprint] ([Whitespace][whitespace], Ruby, [brainfuck][brainfuck], [Labyrinth][labyrinth], [Foo][foo], [Seriously][seriously]) | Prints a single integer. 1 when run as Whitespace, subsequent integers when run as the other listed languages (respectively). Requires underflow for brainfuck. ([golf][polyintprintgolf])
 
 
 
@@ -45,3 +45,4 @@ Program (language)  | Summary (golf link)
 [brainfuck]:https://esolangs.org/wiki/Brainfuck
 [labyrinth]:https://github.com/mbuettner/labyrinth
 [foo]:https://esolangs.org/wiki/Foo
+[seriously]:https://github.com/Mego/Seriously
