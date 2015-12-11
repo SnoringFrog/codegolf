@@ -13,6 +13,8 @@ Program (language)  | Summary (golf link)
 [output_qwerty_keyboard.rb][outputqwertyrb] (Ruby) | Output the remainder of a QWERTY keyboard given 1 char input ([golf][outputqwertygolf])
 [output_qwerty_keyboard.sh][outputqwertysh] (Bash) | Same as above, but in bash ([golf][outputqwertygolf])
 [polyglot_int_print.ws][polyintprint] ([Whitespace][whitespace], Ruby, [brainfuck][brainfuck], [Labyrinth][labyrinth], [Foo][foo], [Seriously][seriously]) | Prints a single integer. 1 when run as Whitespace, subsequent integers when run as the other listed languages (respectively). Requires underflow for brainfuck. ([golf][polyintprintgolf])
+[product_over_range.bc][prodoverrangebc] ([bc][bc]) | Compute product of range between two integers ([golf][prodoverrangegolf])
+[product_over_range.dc][prodoverrangedc] ([dc][dc]) | Compute product of range between two integers ([golf][prodoverrangegolf])
 
 
 
@@ -46,3 +48,7 @@ Program (language)  | Summary (golf link)
 [labyrinth]:https://github.com/mbuettner/labyrinth
 [foo]:https://esolangs.org/wiki/Foo
 [seriously]:https://github.com/Mego/Seriously
+
+[prodoverrangebc]:product_over_range.dc
+[prodoverrangedc]:product_over_range.dc
+[prodoverrangegolf]:http://codegolf.stackexchange.com/questions/66202/product-over-a-range/66382#66382

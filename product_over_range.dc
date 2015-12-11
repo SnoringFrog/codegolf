@@ -1,0 +1,18 @@
+_1 _4 # implicit due to terms of the golf
+dsar[dsc*lc1-dla<A]sAlAxrp # 27 bytes
+
+# Ungolfed:
+#dsa       # duplicate 'a', store a copy in register a
+#r         # reverse top two items on stack
+#[         # start macro definition 
+    #dsc   # duplicate counter, store in register c 
+          ##  ('b' is the initial counter value)
+    #*     # pop top two elements of stack, multiply and push result
+    #lc    # copy the stored counter to the stack
+    #1- d  # decrement and duplicate it
+    #la    # copy 'a' to the stack
+    #<A    # if 'a' is < the counter, run macro A
+#]sA       # store this macro as A
+#lAx       # execute macro A
+#r         # reverse top two elements of stack
+#p         # pop/print the result```
