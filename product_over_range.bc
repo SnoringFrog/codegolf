@@ -1,5 +1,5 @@
-/* assignments are implicit, so total is 25 bytes */
+/* assignments are implicit, so total is 24 bytes */
 a=2
 b=5
-for(c=a+1;c<b;c++)a=a*c
+for(c=a+1;c<b;c++)a*=c
 a
