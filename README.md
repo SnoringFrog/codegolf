@@ -12,6 +12,7 @@ Program (language)  | Summary (golf link)
 [kitten.ret][kitten] ([retina][retina]) | Like `cat`, but lowercase ascii ([golf][kittengolf])
 [output_qwerty_keyboard.rb][outputqwertyrb] (Ruby) | Output the remainder of a QWERTY keyboard given 1 char input ([golf][outputqwertygolf])
 [output_qwerty_keyboard.sh][outputqwertysh] (Bash) | Same as above, but in bash ([golf][outputqwertygolf])
+[pangram.sh][pangram] (Bash) | Check if string is a pangram (contains all letters of English alphabet). ([golf][pangramgolf])
 [polyglot_int_print.ws][polyintprint] ([Whitespace][whitespace], Ruby, [brainfuck][brainfuck], [Labyrinth][labyrinth], [Foo][foo], [Seriously][seriously]) | Prints a single integer. 1 when run as Whitespace, subsequent integers when run as the other listed languages (respectively). Requires underflow for brainfuck. ([golf][polyintprintgolf])
 [product_over_range.bc][prodoverrangebc] ([bc][bc]) | Compute product of range between two integers ([golf][prodoverrangegolf])
 [product_over_range.dc][prodoverrangedc] ([dc][dc]) | Compute product of range between two integers ([golf][prodoverrangegolf])
@@ -40,6 +41,9 @@ Program (language)  | Summary (golf link)
 [outputqwertyrb]:output_qwerty_keyboard.rb
 [outputqwertysh]:output_qwerty_keyboard.sh
 [outputqwertygolf]:http://codegolf.stackexchange.com/questions/64639/output-the-qwerty-keyboard/
+
+[pangram]:pangram.sh
+[pangramgolf]:http://codegolf.stackexchange.com/questions/66197/is-it-a-pangram/66314#66314
 
 [polyintprint]:polyglot_int_print.ws
 [polyintprintgolf]:http://codegolf.stackexchange.com/questions/65641/the-versatile-integer-printer/65694#65694
