@@ -1,4 +1,4 @@
-Various programs written for code golf challenges.
+Various programs written for code golf challenges. Some files contain test cases and will actually run when executed, others are just the necessary function without any input.
 
 Program (language)  | Summary (golf link)
 ------------- | -------------
@@ -10,6 +10,7 @@ Program (language)  | Summary (golf link)
 [coordinate_triangle_area.bc][ctabc] (bc) | Same as above, slightly modified to work in bc.([golf][countbytesgolf])
 [coordinate_triangle_area.dc][ctadc] ([dc][dc]) | Same as above, but rewritten to run in dc.([golf][countbytesgolf])
 [kitten.ret][kitten] ([retina][retina]) | Like `cat`, but lowercase ascii ([golf][kittengolf])
+[minigolf.py][minigolf] (Python) | Determine if the ball was hit hard enough to reach the cup ([golf][minigolfgolf])
 [output_qwerty_keyboard.rb][outputqwertyrb] (Ruby) | Output the remainder of a QWERTY keyboard given 1 char input ([golf][outputqwertygolf])
 [output_qwerty_keyboard.sh][outputqwertysh] (Bash) | Same as above, but in bash ([golf][outputqwertygolf])
 [pangram.sh][pangram] (Bash) | Check if string is a pangram (contains all letters of English alphabet). ([golf][pangramgolf])
@@ -17,8 +18,18 @@ Program (language)  | Summary (golf link)
 [product_over_range.bc][prodoverrangebc] ([bc][bc]) | Compute product of range between two integers ([golf][prodoverrangegolf])
 [product_over_range.dc][prodoverrangedc] ([dc][dc]) | Compute product of range between two integers ([golf][prodoverrangegolf])
 
+[comment]: <> (Languages)
+[brainfuck]:https://esolangs.org/wiki/Brainfuck
+[dc]:https://en.wikipedia.org/wiki/Dc_(computer_program)
+[foo]:https://esolangs.org/wiki/Foo
+[labyrinth]:https://github.com/mbuettner/labyrinth
+[retina]:https://github.com/mbuettner/retina
+[seriously]:https://github.com/Mego/Seriously
+[unbabtized]:http://www.p-nand-q.com/programming/languages/unbabtized.html
+[whitespace]:http://web.archive.org/web/20150523181043/http://compsoc.dur.ac.uk/whitespace/index.php
 
 
+[comment]: <> (Challenges/Golfs)
 [countbytes]:countBytes.R
 [countbytes2]:countBytes2.R
 [countbytesgolf]:http://codegolf.stackexchange.com/questions/60733/count-the-bytes-of-a-programs
@@ -26,17 +37,17 @@ Program (language)  | Summary (golf link)
 [countforever]:count_forever.R
 [countforeverunb]:count_forever.unb
 [countforevergolf]:http://codegolf.stackexchange.com/questions/63834/count-up-forever?page=3&tab=votes#tab-top
-[unbabtized]:http://www.p-nand-q.com/programming/languages/unbabtized.html
 
 [ctar]:coordinate_triangle_area.bc
 [ctabc]:coordinate_triangle_area.dc
 [ctadc]:coordinate_triangle_area.dc
 [coordinatetrianglegolf]:http://codegolf.stackexchange.com/questions/60790/area-of-the-triangle/60930
-[dc]:https://en.wikipedia.org/wiki/Dc_(computer_program)
 
 [kitten]:kitten.ret
 [kittengolf]:http://codegolf.stackexchange.com/questions/59029/the-kitten-command
-[retina]:https://github.com/mbuettner/retina
+
+[minigolf]:minigolf.py
+[minigolfgolf]:http://codegolf.stackexchange.com/questions/69716/code-mini-golf/69883?noredirect=1#comment170790_69883
 
 [outputqwertyrb]:output_qwerty_keyboard.rb
 [outputqwertysh]:output_qwerty_keyboard.sh
@@ -47,11 +58,6 @@ Program (language)  | Summary (golf link)
 
 [polyintprint]:polyglot_int_print.ws
 [polyintprintgolf]:http://codegolf.stackexchange.com/questions/65641/the-versatile-integer-printer/65694#65694
-[whitespace]:http://web.archive.org/web/20150523181043/http://compsoc.dur.ac.uk/whitespace/index.php
-[brainfuck]:https://esolangs.org/wiki/Brainfuck
-[labyrinth]:https://github.com/mbuettner/labyrinth
-[foo]:https://esolangs.org/wiki/Foo
-[seriously]:https://github.com/Mego/Seriously
 
 [prodoverrangebc]:product_over_range.dc
 [prodoverrangedc]:product_over_range.dc
