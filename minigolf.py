@@ -8,10 +8,8 @@ def g(c,p):
 	i+=1
  t={"_":1,"/":5,"\\":-4}
  for v in o:
-	if v=="U":break
+	if v=="U" or p<1:return p>0
 	p-=t[v]
-	if p<1:return
- return 1
 
 powr = 27
 course = """
