@@ -1,0 +1,6 @@
+def g(c,p):
+ o=[''.join(x).split()[0] for x in zip(*c.split('\n'))]
+ t={"_":1,"/":5,"\\":-4}
+ for v in o:
+	if v=="U" or p<1:return p>0
+	p-=t[v]
