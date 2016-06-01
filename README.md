@@ -2,8 +2,8 @@ Various programs written for code golf challenges. Some files contain test cases
 
 Program (language)  | Summary (golf link)
 ------------- | -------------
-[24_and_12_hour_times.foo][2412foo] ([Foo][foo]) | Display time in 24 and 12 hour formats ([golf][2412golf]
-[24_and_12_hour_times.snowman][2412snow] ([Snowman][snowman]) | Display time in 24 and 12 hour formats ([golf][2412golf]
+[24_and_12_hour_times.foo][2412foo] ([Foo][foo]) | Display time in 24 and 12 hour formats ([golf][2412golf])
+[24_and_12_hour_times.snowman][2412snow] ([Snowman][snowman]) | Display time in 24 and 12 hour formats ([golf][2412golf])
 [countBytes.R][countbytes] (R) | Count characters and bytes in input ([golf][countbytesgolf])
 [countBytes2.R][countbytes2] (R) | Shorter, but might not fit the golf on a technicality ([golf][countbytesgolf])
 [count_forever.R][countforever] (R) | Count up forever, starting at 1 ([golf][countforevergolf])
