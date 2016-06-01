@@ -21,6 +21,7 @@ Program (language)  | Summary (golf link)
 [product_over_range.dc][prodoverrangedc] ([dc][dc]) | Compute product of range between two integers ([golf][prodoverrangegolf])
 
 [comment]: <> (Languages)
+
 [brainfuck]:https://esolangs.org/wiki/Brainfuck
 [dc]:https://en.wikipedia.org/wiki/Dc_(computer_program)
 [foo]:https://esolangs.org/wiki/Foo
@@ -32,6 +33,7 @@ Program (language)  | Summary (golf link)
 [whitespace]:http://web.archive.org/web/20150523181043/http://compsoc.dur.ac.uk/whitespace/index.php
 
 [comment]: <> (Challenges/Golfs)
+
 [2412foo]:24_and_12_hour_times.foo
 [2412snow]:24_and_12_hour_times.snowman
 [2412golf]:http://codegolf.stackexchange.com/questions/80974/24-and-12-hour-times
