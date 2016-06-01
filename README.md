@@ -20,7 +20,7 @@ Program (language)  | Summary (golf link)
 [product_over_range.bc][prodoverrangebc] ([bc][bc]) | Compute product of range between two integers ([golf][prodoverrangegolf])
 [product_over_range.dc][prodoverrangedc] ([dc][dc]) | Compute product of range between two integers ([golf][prodoverrangegolf])
 
-[comment]: <> (Languages)
+[comment]: # (Languages)
 
 [brainfuck]:https://esolangs.org/wiki/Brainfuck
 [dc]:https://en.wikipedia.org/wiki/Dc_(computer_program)
@@ -32,7 +32,7 @@ Program (language)  | Summary (golf link)
 [unbabtized]:http://www.p-nand-q.com/programming/languages/unbabtized.html
 [whitespace]:http://web.archive.org/web/20150523181043/http://compsoc.dur.ac.uk/whitespace/index.php
 
-[comment]: <> (Challenges/Golfs)
+[comment]: # (Challenges/Golfs)
 
 [2412foo]:24_and_12_hour_times.foo
 [2412snow]:24_and_12_hour_times.snowman
