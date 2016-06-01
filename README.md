@@ -2,6 +2,8 @@ Various programs written for code golf challenges. Some files contain test cases
 
 Program (language)  | Summary (golf link)
 ------------- | -------------
+[24_and_12_hour_times.foo][2412foo] ([Foo][foo]) | Display time in 24 and 12 hour formats ([golf][2412golf]
+[24_and_12_hour_times.snowman][2412snow] ([Snowman][snowman]) | Display time in 24 and 12 hour formats ([golf][2412golf]
 [countBytes.R][countbytes] (R) | Count characters and bytes in input ([golf][countbytesgolf])
 [countBytes2.R][countbytes2] (R) | Shorter, but might not fit the golf on a technicality ([golf][countbytesgolf])
 [count_forever.R][countforever] (R) | Count up forever, starting at 1 ([golf][countforevergolf])
@@ -25,11 +27,15 @@ Program (language)  | Summary (golf link)
 [labyrinth]:https://github.com/mbuettner/labyrinth
 [retina]:https://github.com/mbuettner/retina
 [seriously]:https://github.com/Mego/Seriously
+[snowman]:https://github.com/KeyboardFire/snowman-lang
 [unbabtized]:http://www.p-nand-q.com/programming/languages/unbabtized.html
 [whitespace]:http://web.archive.org/web/20150523181043/http://compsoc.dur.ac.uk/whitespace/index.php
 
-
 [comment]: <> (Challenges/Golfs)
+[2412foo]:24_and_12_hour_times.foo
+[2412snow]:24_and_12_hour_times.snowman
+[2412golf]:http://codegolf.stackexchange.com/questions/80974/24-and-12-hour-times
+
 [countbytes]:countBytes.R
 [countbytes2]:countBytes2.R
 [countbytesgolf]:http://codegolf.stackexchange.com/questions/60733/count-the-bytes-of-a-programs
