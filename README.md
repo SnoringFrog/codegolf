@@ -4,6 +4,8 @@ Program (language)  | Summary (golf link)
 ------------- | -------------
 [24_and_12_hour_times.foo][2412foo] ([Foo][foo]) | Display time in 24 and 12 hour formats ([golf][2412golf])
 [24_and_12_hour_times.snowman][2412snow] ([Snowman][snowman]) | Display time in 24 and 12 hour formats ([golf][2412golf])
+[a without a.unb][awithoutaunb] ([UNBABTIZED][unbabtized]) | Print 'a' or 'A' without using most characters that refer to that letter ([golf][awoagolf])
+[a without a.ws][awithoutaws] ([Whitespace][whitespace]) | Print 'a' or 'A' without using most characters that refer to that letter ([golf][awoagolf])
 [countBytes.R][countbytes] (R) | Count characters and bytes in input ([golf][countbytesgolf])
 [countBytes2.R][countbytes2] (R) | Shorter, but might not fit the golf on a technicality ([golf][countbytesgolf])
 [count_forever.R][countforever] (R) | Count up forever, starting at 1 ([golf][countforevergolf])
@@ -37,6 +39,10 @@ Program (language)  | Summary (golf link)
 [2412foo]:24_and_12_hour_times.foo
 [2412snow]:24_and_12_hour_times.snowman
 [2412golf]:http://codegolf.stackexchange.com/questions/80974/24-and-12-hour-times
+
+[awithoutaunb]:a_without_a.unb
+[a
+[awoagolf]:http://codegolf.stackexchange.com/questions/90349/the-letter-a-without-a/90809
 
 [countbytes]:countBytes.R
 [countbytes2]:countBytes2.R
