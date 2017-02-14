@@ -26,6 +26,7 @@ Program (language)  | Summary (golf link)
 
 [comment]: # (Languages)
 
+[bc]:https://en.wikipedia.org/wiki/Bc_(programming_language)
 [brainfuck]:https://esolangs.org/wiki/Brainfuck
 [dc]:https://en.wikipedia.org/wiki/Dc_(computer_program)
 [foo]:https://esolangs.org/wiki/Foo
