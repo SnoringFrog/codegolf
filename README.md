@@ -22,6 +22,7 @@ Program (language)  | Summary (golf link)
 [polyglot_int_print.ws][polyintprint] ([Whitespace][whitespace], Ruby, [brainfuck][brainfuck], [Labyrinth][labyrinth], [Foo][foo], [Seriously][seriously]) | Prints a single integer. 1 when run as Whitespace, subsequent integers when run as the other listed languages (respectively). Requires underflow for brainfuck. ([golf][polyintprintgolf])
 [product_over_range.bc][prodoverrangebc] ([bc][bc]) | Compute product of range between two integers ([golf][prodoverrangegolf])
 [product_over_range.dc][prodoverrangedc] ([dc][dc]) | Compute product of range between two integers ([golf][prodoverrangegolf])
+[threethreethree.lab][threethreethree] ([Labyrinth][labyrinth]) | Output at least 3 distinct characters, all in multiples of 3. The source must also meet these requirements. ([golf][threethreethreegolf])
 
 [comment]: # (Languages)
 
@@ -80,3 +81,6 @@ Program (language)  | Summary (golf link)
 [prodoverrangebc]:product_over_range.dc
 [prodoverrangedc]:product_over_range.dc
 [prodoverrangegolf]:http://codegolf.stackexchange.com/questions/66202/product-over-a-range/66382#66382
+
+[threethreethree]:threethreethree.lab
+[threethreethreegolf]:http://codegolf.stackexchange.com/questions/108133/three-three-three/108247#108247
