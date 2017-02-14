@@ -15,6 +15,7 @@ Program (language)  | Summary (golf link)
 [coordinate_triangle_area.dc][ctadc] ([dc][dc]) | Same as above, but rewritten to run in dc.([golf][countbytesgolf])
 [kitten.ret][kitten] ([retina][retina]) | Like `cat`, but lowercase ascii ([golf][kittengolf])
 [minigolf.py][minigolf] (Python) | Determine if the ball was hit hard enough to reach the cup ([golf][minigolfgolf])
+[notcalc.lab][notcalc] ([Labyrinth][labyrinth]) | Given two natural numbers, print a number that is not their sum. ([golf][notcalcgolf])
 [output_qwerty_keyboard.rb][outputqwertyrb] (Ruby) | Output the remainder of a QWERTY keyboard given 1 char input ([golf][outputqwertygolf])
 [output_qwerty_keyboard.sh][outputqwertysh] (Bash) | Same as above, but in bash ([golf][outputqwertygolf])
 [pangram.sh][pangram] (Bash) | Check if string is a pangram (contains all letters of English alphabet). ([golf][pangramgolf])
@@ -62,6 +63,9 @@ Program (language)  | Summary (golf link)
 
 [minigolf]:minigolf.py
 [minigolfgolf]:http://codegolf.stackexchange.com/questions/69716/code-mini-golf/69883?noredirect=1#comment170790_69883
+
+[notcalc]:notcalc.lab
+[notcalcgolf]:http://codegolf.stackexchange.com/a/110050/39056
 
 [outputqwertyrb]:output_qwerty_keyboard.rb
 [outputqwertysh]:output_qwerty_keyboard.sh
